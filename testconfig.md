@@ -14,3 +14,4 @@
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
 
 warp://auto#WarpInWarp✅&&detour=warp://auto#Warp 🇮🇷 IP
+//reza1001
